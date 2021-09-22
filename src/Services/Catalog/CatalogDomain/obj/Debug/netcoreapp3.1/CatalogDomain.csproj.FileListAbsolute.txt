@@ -1,0 +1,10 @@
+C:\Users\DouglasG\Desktop\Microservicios\src\Services\Catalog\CatalogDomain\bin\Debug\netcoreapp3.1\CatalogDomain.deps.json
+C:\Users\DouglasG\Desktop\Microservicios\src\Services\Catalog\CatalogDomain\bin\Debug\netcoreapp3.1\CatalogDomain.dll
+C:\Users\DouglasG\Desktop\Microservicios\src\Services\Catalog\CatalogDomain\bin\Debug\netcoreapp3.1\CatalogDomain.pdb
+C:\Users\DouglasG\Desktop\Microservicios\src\Services\Catalog\CatalogDomain\obj\Debug\netcoreapp3.1\CatalogDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DouglasG\Desktop\Microservicios\src\Services\Catalog\CatalogDomain\obj\Debug\netcoreapp3.1\CatalogDomain.AssemblyInfoInputs.cache
+C:\Users\DouglasG\Desktop\Microservicios\src\Services\Catalog\CatalogDomain\obj\Debug\netcoreapp3.1\CatalogDomain.AssemblyInfo.cs
+C:\Users\DouglasG\Desktop\Microservicios\src\Services\Catalog\CatalogDomain\obj\Debug\netcoreapp3.1\CatalogDomain.csproj.CoreCompileInputs.cache
+C:\Users\DouglasG\Desktop\Microservicios\src\Services\Catalog\CatalogDomain\obj\Debug\netcoreapp3.1\CatalogDomain.dll
+C:\Users\DouglasG\Desktop\Microservicios\src\Services\Catalog\CatalogDomain\obj\Debug\netcoreapp3.1\CatalogDomain.pdb
+C:\Users\DouglasG\Desktop\Microservicios\src\Services\Catalog\CatalogDomain\obj\Debug\netcoreapp3.1\CatalogDomain.csproj.AssemblyReference.cache

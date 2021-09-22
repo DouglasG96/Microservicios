@@ -1,0 +1,13 @@
+C:\Users\DouglasG\Desktop\Microservicios\src\Services\Catalog\Catalog.PersistenceDatabase\bin\Debug\netcoreapp3.1\Catalog.PersistenceDatabase.deps.json
+C:\Users\DouglasG\Desktop\Microservicios\src\Services\Catalog\Catalog.PersistenceDatabase\bin\Debug\netcoreapp3.1\Catalog.PersistenceDatabase.dll
+C:\Users\DouglasG\Desktop\Microservicios\src\Services\Catalog\Catalog.PersistenceDatabase\bin\Debug\netcoreapp3.1\Catalog.PersistenceDatabase.pdb
+C:\Users\DouglasG\Desktop\Microservicios\src\Services\Catalog\Catalog.PersistenceDatabase\bin\Debug\netcoreapp3.1\CatalogDomain.dll
+C:\Users\DouglasG\Desktop\Microservicios\src\Services\Catalog\Catalog.PersistenceDatabase\bin\Debug\netcoreapp3.1\CatalogDomain.pdb
+C:\Users\DouglasG\Desktop\Microservicios\src\Services\Catalog\Catalog.PersistenceDatabase\obj\Debug\netcoreapp3.1\Catalog.PersistenceDatabase.csproj.AssemblyReference.cache
+C:\Users\DouglasG\Desktop\Microservicios\src\Services\Catalog\Catalog.PersistenceDatabase\obj\Debug\netcoreapp3.1\Catalog.PersistenceDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DouglasG\Desktop\Microservicios\src\Services\Catalog\Catalog.PersistenceDatabase\obj\Debug\netcoreapp3.1\Catalog.PersistenceDatabase.AssemblyInfoInputs.cache
+C:\Users\DouglasG\Desktop\Microservicios\src\Services\Catalog\Catalog.PersistenceDatabase\obj\Debug\netcoreapp3.1\Catalog.PersistenceDatabase.AssemblyInfo.cs
+C:\Users\DouglasG\Desktop\Microservicios\src\Services\Catalog\Catalog.PersistenceDatabase\obj\Debug\netcoreapp3.1\Catalog.PersistenceDatabase.csproj.CoreCompileInputs.cache
+C:\Users\DouglasG\Desktop\Microservicios\src\Services\Catalog\Catalog.PersistenceDatabase\obj\Debug\netcoreapp3.1\Catalog.PersistenceDatabase.csproj.CopyComplete
+C:\Users\DouglasG\Desktop\Microservicios\src\Services\Catalog\Catalog.PersistenceDatabase\obj\Debug\netcoreapp3.1\Catalog.PersistenceDatabase.dll
+C:\Users\DouglasG\Desktop\Microservicios\src\Services\Catalog\Catalog.PersistenceDatabase\obj\Debug\netcoreapp3.1\Catalog.PersistenceDatabase.pdb

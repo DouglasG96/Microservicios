@@ -1,0 +1,13 @@
+C:\Users\DouglasG\Desktop\Microservicios\Customer.PersistenceDatabase\obj\Debug\netcoreapp3.1\Customer.PersistenceDatabase.csproj.AssemblyReference.cache
+C:\Users\DouglasG\Desktop\Microservicios\Customer.PersistenceDatabase\obj\Debug\netcoreapp3.1\Customer.PersistenceDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DouglasG\Desktop\Microservicios\Customer.PersistenceDatabase\obj\Debug\netcoreapp3.1\Customer.PersistenceDatabase.AssemblyInfoInputs.cache
+C:\Users\DouglasG\Desktop\Microservicios\Customer.PersistenceDatabase\obj\Debug\netcoreapp3.1\Customer.PersistenceDatabase.AssemblyInfo.cs
+C:\Users\DouglasG\Desktop\Microservicios\Customer.PersistenceDatabase\obj\Debug\netcoreapp3.1\Customer.PersistenceDatabase.csproj.CoreCompileInputs.cache
+C:\Users\DouglasG\Desktop\Microservicios\Customer.PersistenceDatabase\bin\Debug\netcoreapp3.1\Customer.PersistenceDatabase.deps.json
+C:\Users\DouglasG\Desktop\Microservicios\Customer.PersistenceDatabase\bin\Debug\netcoreapp3.1\Customer.PersistenceDatabase.dll
+C:\Users\DouglasG\Desktop\Microservicios\Customer.PersistenceDatabase\bin\Debug\netcoreapp3.1\Customer.PersistenceDatabase.pdb
+C:\Users\DouglasG\Desktop\Microservicios\Customer.PersistenceDatabase\bin\Debug\netcoreapp3.1\CustomerDomain.dll
+C:\Users\DouglasG\Desktop\Microservicios\Customer.PersistenceDatabase\bin\Debug\netcoreapp3.1\CustomerDomain.pdb
+C:\Users\DouglasG\Desktop\Microservicios\Customer.PersistenceDatabase\obj\Debug\netcoreapp3.1\Customer.PersistenceDatabase.csproj.CopyComplete
+C:\Users\DouglasG\Desktop\Microservicios\Customer.PersistenceDatabase\obj\Debug\netcoreapp3.1\Customer.PersistenceDatabase.dll
+C:\Users\DouglasG\Desktop\Microservicios\Customer.PersistenceDatabase\obj\Debug\netcoreapp3.1\Customer.PersistenceDatabase.pdb

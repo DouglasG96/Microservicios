@@ -1,0 +1,15 @@
+C:\Users\DouglasG\Desktop\Microservicios\src\Services\Catalog\Catalog.Service.EventHandlers\bin\Debug\netcoreapp3.1\Catalog.Service.EventHandlers.deps.json
+C:\Users\DouglasG\Desktop\Microservicios\src\Services\Catalog\Catalog.Service.EventHandlers\bin\Debug\netcoreapp3.1\Catalog.Service.EventHandlers.dll
+C:\Users\DouglasG\Desktop\Microservicios\src\Services\Catalog\Catalog.Service.EventHandlers\bin\Debug\netcoreapp3.1\Catalog.Service.EventHandlers.pdb
+C:\Users\DouglasG\Desktop\Microservicios\src\Services\Catalog\Catalog.Service.EventHandlers\obj\Debug\netcoreapp3.1\Catalog.Service.EventHandlers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DouglasG\Desktop\Microservicios\src\Services\Catalog\Catalog.Service.EventHandlers\obj\Debug\netcoreapp3.1\Catalog.Service.EventHandlers.AssemblyInfoInputs.cache
+C:\Users\DouglasG\Desktop\Microservicios\src\Services\Catalog\Catalog.Service.EventHandlers\obj\Debug\netcoreapp3.1\Catalog.Service.EventHandlers.AssemblyInfo.cs
+C:\Users\DouglasG\Desktop\Microservicios\src\Services\Catalog\Catalog.Service.EventHandlers\obj\Debug\netcoreapp3.1\Catalog.Service.EventHandlers.csproj.CoreCompileInputs.cache
+C:\Users\DouglasG\Desktop\Microservicios\src\Services\Catalog\Catalog.Service.EventHandlers\obj\Debug\netcoreapp3.1\Catalog.Service.EventHandlers.dll
+C:\Users\DouglasG\Desktop\Microservicios\src\Services\Catalog\Catalog.Service.EventHandlers\obj\Debug\netcoreapp3.1\Catalog.Service.EventHandlers.pdb
+C:\Users\DouglasG\Desktop\Microservicios\src\Services\Catalog\Catalog.Service.EventHandlers\bin\Debug\netcoreapp3.1\Catalog.PersistenceDatabase.dll
+C:\Users\DouglasG\Desktop\Microservicios\src\Services\Catalog\Catalog.Service.EventHandlers\bin\Debug\netcoreapp3.1\CatalogDomain.dll
+C:\Users\DouglasG\Desktop\Microservicios\src\Services\Catalog\Catalog.Service.EventHandlers\bin\Debug\netcoreapp3.1\Catalog.PersistenceDatabase.pdb
+C:\Users\DouglasG\Desktop\Microservicios\src\Services\Catalog\Catalog.Service.EventHandlers\bin\Debug\netcoreapp3.1\CatalogDomain.pdb
+C:\Users\DouglasG\Desktop\Microservicios\src\Services\Catalog\Catalog.Service.EventHandlers\obj\Debug\netcoreapp3.1\Catalog.Service.EventHandlers.csproj.AssemblyReference.cache
+C:\Users\DouglasG\Desktop\Microservicios\src\Services\Catalog\Catalog.Service.EventHandlers\obj\Debug\netcoreapp3.1\Catalog.Service.EventHandlers.csproj.CopyComplete

@@ -1,0 +1,10 @@
+C:\Users\DouglasG\Desktop\Microservicios\CustomerDomain\bin\Debug\netcoreapp3.1\CustomerDomain.deps.json
+C:\Users\DouglasG\Desktop\Microservicios\CustomerDomain\bin\Debug\netcoreapp3.1\CustomerDomain.dll
+C:\Users\DouglasG\Desktop\Microservicios\CustomerDomain\bin\Debug\netcoreapp3.1\CustomerDomain.pdb
+C:\Users\DouglasG\Desktop\Microservicios\CustomerDomain\obj\Debug\netcoreapp3.1\CustomerDomain.csproj.AssemblyReference.cache
+C:\Users\DouglasG\Desktop\Microservicios\CustomerDomain\obj\Debug\netcoreapp3.1\CustomerDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DouglasG\Desktop\Microservicios\CustomerDomain\obj\Debug\netcoreapp3.1\CustomerDomain.AssemblyInfoInputs.cache
+C:\Users\DouglasG\Desktop\Microservicios\CustomerDomain\obj\Debug\netcoreapp3.1\CustomerDomain.AssemblyInfo.cs
+C:\Users\DouglasG\Desktop\Microservicios\CustomerDomain\obj\Debug\netcoreapp3.1\CustomerDomain.csproj.CoreCompileInputs.cache
+C:\Users\DouglasG\Desktop\Microservicios\CustomerDomain\obj\Debug\netcoreapp3.1\CustomerDomain.dll
+C:\Users\DouglasG\Desktop\Microservicios\CustomerDomain\obj\Debug\netcoreapp3.1\CustomerDomain.pdb
